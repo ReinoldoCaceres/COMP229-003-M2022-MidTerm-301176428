@@ -36,5 +36,13 @@
     "Passportjs."
   ],
   "author": "Julio Vinicius",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReinoldoCaceres/COMP229-003-M2022-MidTerm-301176428.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ReinoldoCaceres/COMP229-003-M2022-MidTerm-301176428/issues"
+  },
+  "homepage": "https://github.com/ReinoldoCaceres/COMP229-003-M2022-MidTerm-301176428#readme"
 }
